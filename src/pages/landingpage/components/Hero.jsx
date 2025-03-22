@@ -60,7 +60,7 @@ const Hero = () => {
             >
               {[
                 {
-                  href: "",
+                  href: "https://www.facebook.com/profile.php?id=61556777256414",
                   icon: (
                     <FaFacebook
                       size={18}
@@ -69,7 +69,7 @@ const Hero = () => {
                   ),
                 },
                 {
-                  href: "",
+                  href: "https://www.instagram.com/qazigmm/",
                   icon: (
                     <FaInstagram
                       size={18}
